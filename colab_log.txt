@@ -1,1 +1,2 @@
 Day2: Google Colab setup complete. -
+Day2: Update from GitHub
